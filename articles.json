@@ -454,10 +454,10 @@
     "path": "compras-da-china/001-comprar-da-china-parece-simples-ate-voce-perceber-que-nao-sabe-por-onde-confiar.html",
     "url": "https://chinacomercioblog.com/compras-da-china/001-comprar-da-china-parece-simples-ate-voce-perceber-que-nao-sabe-por-onde-confiar.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-comprar-da-china-parece-simples-ate-voce-perceber-que-nao-sabe-por-onde-confiar",
-    "word_count": 1007,
+    "word_count": 1306,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -512,6 +512,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: comprar da china parece simples até você perceber que não sabe por onde confiar precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "text": "## Ferramenta prática: Ficha de amostra\n\nUse esta ferramenta junto com o artigo sobre Comprar da China parece simples até você perceber que não sabe por onde confiar?. Ela transforma a leitura de Compras da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra para: Comprar da China parece simples até você perceber que não sabe por onde confiar?",
+        "intro": "Amostra boa precisa virar critério. Não aprove só porque o item chegou.",
+        "headers": [
+          "Item",
+          "Como avaliar",
+          "Reprovar se"
+        ],
+        "rows": [
+          [
+            "Acabamento",
+            "Compare foto, material e toque",
+            "Difere do prometido"
+          ],
+          [
+            "Embalagem",
+            "Teste proteção e apresentação",
+            "Chega amassada ou sem padrão"
+          ],
+          [
+            "Uso real",
+            "Teste por algumas horas/dias",
+            "Falha antes de uso normal"
+          ],
+          [
+            "Repetição",
+            "Pergunte se o lote virá igual",
+            "Fornecedor não garante padrão"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Comprar da China parece simples até você perceber que não sabe por onde confiar?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Amostra recebida em: ____\nAcabamento: aprovado / revisar\nEmbalagem: aprovado / revisar\nTamanho/peso: aprovado / revisar\nTeste de uso: aprovado / revisar\nDiferença contra anúncio: ____\nPergunta antes do lote: ____"
       }
     ],
     "faq": [
@@ -533,7 +586,10 @@
       "length_band": "long",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "sample_acceptance",
+      "tool_label": "Ficha de amostra"
     }
   },
   {
@@ -556,10 +612,10 @@
     "path": "fornecedores-chineses/001-como-validar-fornecedor-chines-sem-cair-no-teatro-das-respostas-perfeitas.html",
     "url": "https://chinacomercioblog.com/fornecedores-chineses/001-como-validar-fornecedor-chines-sem-cair-no-teatro-das-respostas-perfeitas.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-como-validar-fornecedor-chines-sem-cair-no-teatro-das-respostas-perfeitas",
-    "word_count": 660,
+    "word_count": 958,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -605,6 +661,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: como validar fornecedor chinês sem cair no teatro das respostas perfeitas precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "text": "## Ferramenta prática: Checklist de fornecedor\n\nUse esta ferramenta junto com o artigo sobre Como validar fornecedor chinês sem cair no teatro das respostas perfeitas?. Ela transforma a leitura de Fornecedores Chineses em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor para: Como validar fornecedor chinês sem cair no teatro das respostas perfeitas?",
+        "intro": "Marque apenas o que tem prova salva. Impressão boa não conta como validação.",
+        "headers": [
+          "Checagem",
+          "Prova aceitável",
+          "Quando pausar"
+        ],
+        "rows": [
+          [
+            "Empresa e contato",
+            "Nome, página, histórico e pessoa responsável",
+            "Contato muda de assunto ou some"
+          ],
+          [
+            "Produto real",
+            "Vídeo, foto própria ou amostra",
+            "Só há catálogo genérico"
+          ],
+          [
+            "Prazo e embalagem",
+            "Resposta escrita com detalhe",
+            "Resposta fica em 'sem problema'"
+          ],
+          [
+            "Condição de erro",
+            "Defeito, atraso e reposição explicados",
+            "Fornecedor pressiona pagamento antes da prova"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "supplier_checklist",
+        "title": "Checklist de fornecedor copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Como validar fornecedor chinês sem cair no teatro das respostas perfeitas?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Fornecedor: ____\nContato: ____\nProduto confirmado por prova real? ____\nEmbalagem confirmada? ____\nPrazo escrito? ____\nCondição para defeito/atraso: ____\nPrints salvos: ____\nDecisão: avançar / pedir prova / trocar fornecedor"
       }
     ],
     "faq": [
@@ -626,7 +735,10 @@
       "length_band": "medium",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "supplier_checklist",
+      "tool_label": "Checklist de fornecedor"
     }
   },
   {
@@ -649,10 +761,10 @@
     "path": "importacao-para-o-brasil/001-importar-da-china-ainda-vale-a-pena-quando-imposto-e-prazo-assustam.html",
     "url": "https://chinacomercioblog.com/importacao-para-o-brasil/001-importar-da-china-ainda-vale-a-pena-quando-imposto-e-prazo-assustam.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-importar-da-china-ainda-vale-a-pena-quando-imposto-e-prazo-assustam",
-    "word_count": 467,
+    "word_count": 778,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -707,6 +819,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: importar da china ainda vale a pena quando imposto e prazo assustam precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "text": "## Ferramenta prática: Tabela de custo\n\nUse esta ferramenta junto com o artigo sobre Importar da China ainda vale a pena quando imposto e prazo assustam?. Ela transforma a leitura de Importação para o Brasil em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo para aplicar em: Importar da China ainda vale a pena quando imposto e prazo assustam?",
+        "intro": "Preencha com números conservadores. Se algum campo ficar em branco, a margem ainda não está pronta.",
+        "headers": [
+          "Campo",
+          "Como preencher",
+          "Sinal de alerta"
+        ],
+        "rows": [
+          [
+            "Preço do produto",
+            "Valor por unidade ou lote",
+            "Preço só aparece em mensagem solta"
+          ],
+          [
+            "Frete e embalagem",
+            "Inclua peso, caixa, etiqueta e envio interno",
+            "Frete ainda depende de chute"
+          ],
+          [
+            "Imposto/custo local",
+            "Use cenário conservador",
+            "A conta ignora chegada ao destino"
+          ],
+          [
+            "Margem mínima",
+            "Compare com preço real de venda",
+            "Lucro depende de vender rápido demais"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Importar da China ainda vale a pena quando imposto e prazo assustam?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Produto: ____\nQuantidade: ____\nPreço unitário: ____\nFrete internacional: ____\nImposto/custo local: ____\nEmbalagem/frete interno: ____\nPreço de venda real: ____\nMargem mínima: ____\nDecisão: pagar / testar menor / pausar"
       }
     ],
     "faq": [
@@ -728,7 +893,10 @@
       "length_band": "medium",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "cost_calculator",
+      "tool_label": "Tabela de custo"
     }
   },
   {
@@ -751,10 +919,10 @@
     "path": "negocios-online/001-negocio-online-com-produto-da-china-vira-oportunidade-real-ou-so-mais-uma-conta-apertada.html",
     "url": "https://chinacomercioblog.com/negocios-online/001-negocio-online-com-produto-da-china-vira-oportunidade-real-ou-so-mais-uma-conta-apertada.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-negocio-online-com-produto-da-china-vira-oportunidade-real-ou-so-mais-uma-conta-apertada",
-    "word_count": 677,
+    "word_count": 995,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -809,6 +977,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: negócio online com produto da china vira oportunidade real ou só mais uma conta apertada precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "text": "## Ferramenta prática: Tabela de custo\n\nUse esta ferramenta junto com o artigo sobre Negócio online com produto da China vira oportunidade real ou só mais uma conta apertada?. Ela transforma a leitura de Negócios Online em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo para aplicar em: Negócio online com produto da China vira oportunidade real ou só mais uma conta apertada?",
+        "intro": "Preencha com números conservadores. Se algum campo ficar em branco, a margem ainda não está pronta.",
+        "headers": [
+          "Campo",
+          "Como preencher",
+          "Sinal de alerta"
+        ],
+        "rows": [
+          [
+            "Preço do produto",
+            "Valor por unidade ou lote",
+            "Preço só aparece em mensagem solta"
+          ],
+          [
+            "Frete e embalagem",
+            "Inclua peso, caixa, etiqueta e envio interno",
+            "Frete ainda depende de chute"
+          ],
+          [
+            "Imposto/custo local",
+            "Use cenário conservador",
+            "A conta ignora chegada ao destino"
+          ],
+          [
+            "Margem mínima",
+            "Compare com preço real de venda",
+            "Lucro depende de vender rápido demais"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Negócio online com produto da China vira oportunidade real ou só mais uma conta apertada?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Produto: ____\nQuantidade: ____\nPreço unitário: ____\nFrete internacional: ____\nImposto/custo local: ____\nEmbalagem/frete interno: ____\nPreço de venda real: ____\nMargem mínima: ____\nDecisão: pagar / testar menor / pausar"
       }
     ],
     "faq": [
@@ -830,7 +1051,10 @@
       "length_band": "long",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "cost_calculator",
+      "tool_label": "Tabela de custo"
     }
   },
   {
@@ -853,10 +1077,10 @@
     "path": "importacao-para-o-brasil/002-imposto-alto-mata-toda-importacao-da-china-ou-o-erro-esta-em-como-voce-faz-a-conta.html",
     "url": "https://chinacomercioblog.com/importacao-para-o-brasil/002-imposto-alto-mata-toda-importacao-da-china-ou-o-erro-esta-em-como-voce-faz-a-conta.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-imposto-alto-mata-toda-importacao-da-china-ou-o-erro-esta-em-como-voce-faz-a-conta",
-    "word_count": 535,
+    "word_count": 853,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -902,6 +1126,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: imposto alto mata toda importação da china ou o erro está em como você faz a conta precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "text": "## Ferramenta prática: Lista de risco de pagamento\n\nUse esta ferramenta junto com o artigo sobre Imposto alto mata toda importação da China ou o erro está em como você faz a conta?. Ela transforma a leitura de Importação para o Brasil em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento para: Imposto alto mata toda importação da China ou o erro está em como você faz a conta?",
+        "intro": "Antes de pagar, separe risco normal de risco sem prova.",
+        "headers": [
+          "Risco",
+          "Como reduzir",
+          "Não pagar se"
+        ],
+        "rows": [
+          [
+            "Produto vago",
+            "Descrição e prova salvas",
+            "Só existe promessa verbal"
+          ],
+          [
+            "Prazo incerto",
+            "Data e etapa por escrito",
+            "Fornecedor evita compromisso"
+          ],
+          [
+            "Pagamento adiantado",
+            "Valor menor, etapa ou plataforma",
+            "Pressa substitui prova"
+          ],
+          [
+            "Problema futuro",
+            "Defeito, atraso e reposição combinados",
+            "Ninguém assume responsabilidade"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Imposto alto mata toda importação da China ou o erro está em como você faz a conta?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Valor a pagar agora: ____\nO que já está provado: ____\nO que ainda está só prometido: ____\nForma de pagamento: ____\nProteção/plataforma: ____\nCondição em caso de problema: ____\nSe eu precisar reclamar, que prova tenho? ____"
       }
     ],
     "faq": [
@@ -923,7 +1200,10 @@
       "length_band": "medium",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "payment_risk",
+      "tool_label": "Lista de risco de pagamento"
     }
   },
   {
@@ -946,10 +1226,10 @@
     "path": "fornecedores-chineses/002-fornecedor-chines-parece-confiavel-no-chat-mas-como-perceber-o-risco-antes-do-pagamento.html",
     "url": "https://chinacomercioblog.com/fornecedores-chineses/002-fornecedor-chines-parece-confiavel-no-chat-mas-como-perceber-o-risco-antes-do-pagamento.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-fornecedor-chines-parece-confiavel-no-chat-mas-como-perceber-o-risco-antes-do-pagamento",
-    "word_count": 670,
+    "word_count": 996,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -1004,6 +1284,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: fornecedor chinês parece confiável no chat, mas como perceber o risco antes do pagamento precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "text": "## Ferramenta prática: Modelo de WhatsApp/e-mail\n\nUse esta ferramenta junto com o artigo sobre Fornecedor chinês parece confiável no chat, mas como perceber o risco antes do pagamento?. Ela transforma a leitura de Fornecedores Chineses em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Campos para pedir cotação sobre: Fornecedor chinês parece confiável no chat, mas como perceber o risco antes do pagamento?",
+        "intro": "Antes de mandar a mensagem, confirme se a pergunta deixa pouco espaço para resposta vaga.",
+        "headers": [
+          "Campo",
+          "Informação a pedir",
+          "Resposta fraca"
+        ],
+        "rows": [
+          [
+            "Produto",
+            "Modelo, material, tamanho, variação",
+            "Fornecedor responde só com preço"
+          ],
+          [
+            "Quantidade",
+            "MOQ, preço por faixa e amostra",
+            "MOQ muda sem explicação"
+          ],
+          [
+            "Embalagem",
+            "Foto, etiqueta, caixa, proteção",
+            "Diz que ajusta depois"
+          ],
+          [
+            "Prazo e pagamento",
+            "Produção, envio, sinal, saldo",
+            "Pede pagamento antes de detalhar"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Modelo de WhatsApp/e-mail copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Fornecedor chinês parece confiável no chat, mas como perceber o risco antes do pagamento?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Olá, estou avaliando este produto para compra no Brasil/LatAm.\nProduto/modelo: ____\nQuantidade inicial: ____\nPreciso confirmar: material, embalagem, MOQ, prazo de produção, frete estimado e condição em caso de defeito.\nVocê pode enviar foto/vídeo real do produto e cotação por faixa de quantidade?\nObrigado."
       }
     ],
     "faq": [
@@ -1025,7 +1358,10 @@
       "length_band": "medium",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "quote_template",
+      "tool_label": "Modelo de WhatsApp/e-mail"
     }
   },
   {
@@ -1048,10 +1384,10 @@
     "path": "compras-da-china/002-comprar-da-china-fica-arriscado-quando-voce-escolhe-rapido-demais-so-porque-o-catalogo-parece-bom.html",
     "url": "https://chinacomercioblog.com/compras-da-china/002-comprar-da-china-fica-arriscado-quando-voce-escolhe-rapido-demais-so-porque-o-catalogo-parece-bom.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-comprar-da-china-fica-arriscado-quando-voce-escolhe-rapido-demais-so-porque-o-catalogo-parece-bom",
-    "word_count": 588,
+    "word_count": 913,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -1097,6 +1433,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: comprar da china fica arriscado quando você escolhe rápido demais só porque o catálogo parece bom precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "text": "## Ferramenta prática: Matriz de MOQ\n\nUse esta ferramenta junto com o artigo sobre Comprar da China fica arriscado quando você escolhe rápido demais só porque o catálogo parece bom?. Ela transforma a leitura de Compras da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ para decidir em: Comprar da China fica arriscado quando você escolhe rápido demais só porque o catálogo parece bom?",
+        "intro": "MOQ não é só quantidade mínima. Ele precisa caber em caixa, teste e giro.",
+        "headers": [
+          "Pergunta",
+          "Resposta que ajuda",
+          "Risco"
+        ],
+        "rows": [
+          [
+            "MOQ declarado",
+            "Quantidade mínima por cor/modelo",
+            "MOQ parece baixo, mas mistura variações"
+          ],
+          [
+            "Valor do teste",
+            "Total que você aceita aprender",
+            "Teste prende caixa demais"
+          ],
+          [
+            "Giro esperado",
+            "Quanto vender em 30-60 dias",
+            "Quantidade exige venda rápida demais"
+          ],
+          [
+            "Próximo lote",
+            "Condição para repetir",
+            "Fornecedor só dá preço bom em volume alto"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Comprar da China fica arriscado quando você escolhe rápido demais só porque o catálogo parece bom?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "MOQ informado: ____\nQuantidade que consigo testar: ____\nCapital máximo do teste: ____\nVariações/cor/modelo incluídas: ____\nGiro esperado em 30-60 dias: ____\nO que preciso vender para repetir: ____\nDecisão: aceitar MOQ / negociar / trocar produto"
       }
     ],
     "faq": [
@@ -1118,7 +1507,10 @@
       "length_band": "medium",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "moq_matrix",
+      "tool_label": "Matriz de MOQ"
     }
   },
   {
@@ -1141,10 +1533,10 @@
     "path": "compras-da-china/003-comprar-da-china-sem-pedido-teste-e-economia-ou-so-um-jeito-elegante-de-comprar-no-escuro.html",
     "url": "https://chinacomercioblog.com/compras-da-china/003-comprar-da-china-sem-pedido-teste-e-economia-ou-so-um-jeito-elegante-de-comprar-no-escuro.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 3,
     "slug": "003-comprar-da-china-sem-pedido-teste-e-economia-ou-so-um-jeito-elegante-de-comprar-no-escuro",
-    "word_count": 566,
+    "word_count": 874,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -1199,6 +1591,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: comprar da china sem pedido teste é economia ou só um jeito elegante de comprar no escuro precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "text": "## Ferramenta prática: Ficha de amostra\n\nUse esta ferramenta junto com o artigo sobre Comprar da China sem pedido teste é economia ou só um jeito elegante de comprar no escuro?. Ela transforma a leitura de Compras da China em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra para: Comprar da China sem pedido teste é economia ou só um jeito elegante de comprar no escuro?",
+        "intro": "Amostra boa precisa virar critério. Não aprove só porque o item chegou.",
+        "headers": [
+          "Item",
+          "Como avaliar",
+          "Reprovar se"
+        ],
+        "rows": [
+          [
+            "Acabamento",
+            "Compare foto, material e toque",
+            "Difere do prometido"
+          ],
+          [
+            "Embalagem",
+            "Teste proteção e apresentação",
+            "Chega amassada ou sem padrão"
+          ],
+          [
+            "Uso real",
+            "Teste por algumas horas/dias",
+            "Falha antes de uso normal"
+          ],
+          [
+            "Repetição",
+            "Pergunte se o lote virá igual",
+            "Fornecedor não garante padrão"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Comprar da China sem pedido teste é economia ou só um jeito elegante de comprar no escuro?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Amostra recebida em: ____\nAcabamento: aprovado / revisar\nEmbalagem: aprovado / revisar\nTamanho/peso: aprovado / revisar\nTeste de uso: aprovado / revisar\nDiferença contra anúncio: ____\nPergunta antes do lote: ____"
       }
     ],
     "faq": [
@@ -1220,7 +1665,10 @@
       "length_band": "medium",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "sample_acceptance",
+      "tool_label": "Ficha de amostra"
     }
   },
   {
@@ -1243,10 +1691,10 @@
     "path": "negocios-online/002-negocio-online-com-produto-da-china-comeca-pelo-produto-certo-ou-pela-conta-que-ninguem-fez-direito.html",
     "url": "https://chinacomercioblog.com/negocios-online/002-negocio-online-com-produto-da-china-comeca-pelo-produto-certo-ou-pela-conta-que-ninguem-fez-direito.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-negocio-online-com-produto-da-china-comeca-pelo-produto-certo-ou-pela-conta-que-ninguem-fez-direito",
-    "word_count": 702,
+    "word_count": 1029,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -1301,6 +1749,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: negócio online com produto da china começa pelo produto certo ou pela conta que ninguém fez direito precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "text": "## Ferramenta prática: Matriz de MOQ\n\nUse esta ferramenta junto com o artigo sobre Negócio online com produto da China começa pelo produto certo ou pela conta que ninguém fez direito?. Ela transforma a leitura de Negócios Online em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ para decidir em: Negócio online com produto da China começa pelo produto certo ou pela conta que ninguém fez direito?",
+        "intro": "MOQ não é só quantidade mínima. Ele precisa caber em caixa, teste e giro.",
+        "headers": [
+          "Pergunta",
+          "Resposta que ajuda",
+          "Risco"
+        ],
+        "rows": [
+          [
+            "MOQ declarado",
+            "Quantidade mínima por cor/modelo",
+            "MOQ parece baixo, mas mistura variações"
+          ],
+          [
+            "Valor do teste",
+            "Total que você aceita aprender",
+            "Teste prende caixa demais"
+          ],
+          [
+            "Giro esperado",
+            "Quanto vender em 30-60 dias",
+            "Quantidade exige venda rápida demais"
+          ],
+          [
+            "Próximo lote",
+            "Condição para repetir",
+            "Fornecedor só dá preço bom em volume alto"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Negócio online com produto da China começa pelo produto certo ou pela conta que ninguém fez direito?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "MOQ informado: ____\nQuantidade que consigo testar: ____\nCapital máximo do teste: ____\nVariações/cor/modelo incluídas: ____\nGiro esperado em 30-60 dias: ____\nO que preciso vender para repetir: ____\nDecisão: aceitar MOQ / negociar / trocar produto"
       }
     ],
     "faq": [
@@ -1322,7 +1823,10 @@
       "length_band": "long",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "moq_matrix",
+      "tool_label": "Matriz de MOQ"
     }
   },
   {
@@ -1345,10 +1849,10 @@
     "path": "negocios-online/003-vender-online-com-produto-da-china-parece-escalavel-mas-o-prazo-longo-pode-travar-seu-caixa.html",
     "url": "https://chinacomercioblog.com/negocios-online/003-vender-online-com-produto-da-china-parece-escalavel-mas-o-prazo-longo-pode-travar-seu-caixa.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:25Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 3,
     "slug": "003-vender-online-com-produto-da-china-parece-escalavel-mas-o-prazo-longo-pode-travar-seu-caixa",
-    "word_count": 355,
+    "word_count": 676,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -1394,6 +1898,59 @@
       {
         "type": "text",
         "text": "## Roteiro prático para decidir no Brasil\n\nTrate este tema como uma sequência de importação brasileira: primeiro custo landed, depois fornecedor, depois decisão comercial.\n\nAntes de avançar, coloque na mesma linha produto, frete, imposto, documentação e margem. Se uma dessas partes ainda estiver vaga, a compra ainda não está pronta.\n\nO próximo passo útil é simples: escreva a cotação em uma tabela curta e marque o que ainda depende de prova do fornecedor.\n\nPara este artigo, a leitura prática é: vender online com produto da china parece escalável, mas o prazo longo pode travar seu caixa precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "text": "## Ferramenta prática: Tabela de custo\n\nUse esta ferramenta junto com o artigo sobre Vender online com produto da China parece escalável, mas o prazo longo pode travar seu caixa?. Ela transforma a leitura de Negócios Online em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo para aplicar em: Vender online com produto da China parece escalável, mas o prazo longo pode travar seu caixa?",
+        "intro": "Preencha com números conservadores. Se algum campo ficar em branco, a margem ainda não está pronta.",
+        "headers": [
+          "Campo",
+          "Como preencher",
+          "Sinal de alerta"
+        ],
+        "rows": [
+          [
+            "Preço do produto",
+            "Valor por unidade ou lote",
+            "Preço só aparece em mensagem solta"
+          ],
+          [
+            "Frete e embalagem",
+            "Inclua peso, caixa, etiqueta e envio interno",
+            "Frete ainda depende de chute"
+          ],
+          [
+            "Imposto/custo local",
+            "Use cenário conservador",
+            "A conta ignora chegada ao destino"
+          ],
+          [
+            "Margem mínima",
+            "Compare com preço real de venda",
+            "Lucro depende de vender rápido demais"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Vender online com produto da China parece escalável, mas o prazo longo pode travar seu caixa?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Produto: ____\nQuantidade: ____\nPreço unitário: ____\nFrete internacional: ____\nImposto/custo local: ____\nEmbalagem/frete interno: ____\nPreço de venda real: ____\nMargem mínima: ____\nDecisão: pagar / testar menor / pausar"
       }
     ],
     "faq": [
@@ -1415,7 +1972,10 @@
       "length_band": "short",
       "voice": "editorial",
       "site_layout": "tutorial",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "cost_calculator",
+      "tool_label": "Tabela de custo"
     }
   }
 ]
