@@ -1,0 +1,74 @@
+{
+  "site_name": "China Comércio Blog",
+  "site_base_url": "https://chinacomercioblog.com",
+  "language": "pt-BR",
+  "tagline": "Biblioteca prática para brasileiros pesquisarem fornecedores chineses, imposto, frete e risco antes de importar.",
+  "description": "Biblioteca em pt-BR com guias reais sobre importação da China para o Brasil, fornecedores chineses, imposto, frete, qualidade, golpes e negócios online.",
+  "author_name": "Redação China Comércio Blog",
+  "brand_color": "#00897b",
+  "accent_color": "#ffca28",
+  "default_og_image": "/assets/og/default.webp",
+  "whatsapp": "https://wa.me/601133109658",
+  "default_categories": [
+    "Compras da China",
+    "Fornecedores Chineses",
+    "Importação para o Brasil",
+    "Negócios Online"
+  ],
+  "category_meta": {
+    "compras-da-china": {
+      "label": "Compras da China",
+      "description": "Guias sobre como começar a importar, comparar fornecedores e evitar erros antes do primeiro pedido."
+    },
+    "fornecedores-chineses": {
+      "label": "Fornecedores Chineses",
+      "description": "Conteúdo para avaliar fornecedor, negociar melhor e reduzir o risco de golpe ou qualidade abaixo do esperado."
+    },
+    "importacao-para-o-brasil": {
+      "label": "Importação para o Brasil",
+      "description": "Guias sobre imposto, frete, prazo, documentação e custo real para importar da China para o Brasil."
+    },
+    "negocios-online": {
+      "label": "Negócios Online",
+      "description": "Conteúdo para transformar pesquisa, compra e operação em um negócio online mais organizado."
+    }
+  },
+  "hero_title": "Importação da China para o Brasil: fornecedores, imposto e frete",
+  "hero_subtitle": "Se você ainda não sabe se o fornecedor é confiável, se o imposto mata a margem ou se o frete vai atrasar tudo, este blog organiza essas dúvidas em guias práticos, sem promessa fácil.",
+  "primary_cta_label": "Ver guias sobre imposto e frete",
+  "primary_cta_target": "/importacao-para-o-brasil/",
+  "secondary_cta_label": "Pesquisar fornecedores",
+  "secondary_cta_target": "/fornecedores-chineses/",
+  "pain_points": [
+    "Medo de pagar e descobrir que a qualidade veio abaixo do esperado",
+    "Dúvida se imposto e frete ainda deixam alguma margem no Brasil",
+    "Insegurança para validar fornecedor sem cair em golpe ou promessa vazia",
+    "Cansaço com conteúdo raso que não explica custo total nem risco real",
+    "Confusão para separar atraso normal de problema sério na operação",
+    "Falta de uma base contínua para pesquisar antes de decidir"
+  ],
+  "homepage_featured_categories": [
+    "compras-da-china",
+    "fornecedores-chineses",
+    "importacao-para-o-brasil",
+    "negocios-online"
+  ],
+  "homepage_faq": [
+    {
+      "q": "Como saber se importar da China ainda compensa no Brasil?",
+      "a": "A resposta depende menos de empolgação e mais de conta completa: fornecedor, qualidade, frete, imposto, prazo e margem real depois que o produto chega."
+    },
+    {
+      "q": "O que pesa mais na decisão: imposto, frete ou fornecedor ruim?",
+      "a": "Os três pesam, mas fornecedor ruim costuma custar mais porque junta atraso, retrabalho, qualidade ruim e dinheiro preso num pedido mal escolhido."
+    },
+    {
+      "q": "Onde pesquisar fornecedores chineses com mais segurança?",
+      "a": "Comece pelos guias de fornecedores, compare sinais concretos, leia os cenários de risco e só avance quando fizer sentido no seu custo total."
+    },
+    {
+      "q": "Quanto tempo leva para um pedido da China chegar ao Brasil?",
+      "a": "Depende do tipo de operação, da rota, da liberação e do nível de organização do fornecedor, mas o prazo só faz sentido quando entra junto na conta de giro e margem."
+    }
+  ]
+}
