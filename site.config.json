@@ -3,50 +3,48 @@
   "default_og_image": "/assets/og/default.webp",
   "whatsapp": "https://wa.me/601133109658",
   "homepage_layout": "tutorial",
-  "site_name": "China Com\u00e9rcio Blog",
+  "site_name": "China Comércio Blog",
   "site_base_url": "https://chinacomercioblog.com",
-  "tagline": "Hub brasileiro de importa\u00e7\u00e3o da China com foco em fornecedor, imposto, frete e decis\u00e3o comercial.",
-  "description": "China Com\u00e9rcio Blog \u00e9 o hub principal para brasileiros que avaliam importar da China com aten\u00e7\u00e3o a fornecedores, impostos, frete, documenta\u00e7\u00e3o e decis\u00e3o comercial no Brasil.",
-  "author_name": "Reda\u00e7\u00e3o China Com\u00e9rcio Blog",
+  "tagline": "Importar da China para o Brasil sem comprar no escuro",
+  "description": "Guias para decidir antes de pagar: custo landed, imposto, frete, fornecedor, amostra e quando a compra deve ser pausada.",
+  "author_name": "Equipe China Comércio Blog, especialista em importação China-Brasil",
   "brand_color": "#00897b",
   "accent_color": "#ffca28",
   "default_categories": [
     "Compras da China",
     "Fornecedores Chineses",
-    "Importa\u00e7\u00e3o para o Brasil",
-    "Neg\u00f3cios Online"
+    "Importação para o Brasil",
+    "Negócios Online"
   ],
   "category_meta": {
     "compras-da-china": {
-      "label": "Compra e Importa\u00e7\u00e3o no Brasil",
-      "description": "Guias centrais sobre quando comprar da China vira importa\u00e7\u00e3o real para o mercado brasileiro."
+      "label": "Compra e Importação no Brasil",
+      "description": "Guias centrais sobre quando comprar da China vira importação real para o mercado brasileiro."
     },
     "fornecedores-chineses": {
-      "label": "Fornecedores e Cota\u00e7\u00e3o",
-      "description": "Crit\u00e9rios para buscar, comparar e validar fornecedor chin\u00eas antes de fechar pedido para o Brasil."
+      "label": "Fornecedores e Cotação",
+      "description": "Critérios para buscar, comparar e validar fornecedor chinês antes de fechar pedido para o Brasil."
     },
     "importacao-para-o-brasil": {
-      "label": "Impostos, Frete e Desembara\u00e7o",
-      "description": "Leitura pr\u00e1tica de imposto, frete, custo landed e pontos que mudam a conta no Brasil."
+      "label": "Impostos, Frete e Desembaraço",
+      "description": "Leitura prática de imposto, frete, custo landed e pontos que mudam a conta no Brasil."
     },
     "negocios-online": {
       "label": "Venda no Brasil",
       "description": "Como conectar produto importado, margem, canal de venda e risco de estoque no mercado brasileiro."
     }
   },
-  "hero_title": "Importar da China para o Brasil: fornecedor, imposto e frete",
-  "hero_subtitle": "O hub principal da rede concentra fornecedores, impostos, frete, documenta\u00e7\u00e3o e decis\u00e3o comercial para quem quer transformar compra chinesa em opera\u00e7\u00e3o vi\u00e1vel no Brasil.",
-  "primary_cta_label": "Calcular risco da importa\u00e7\u00e3o",
-  "primary_cta_target": "/importacao-para-o-brasil/",
-  "secondary_cta_label": "Validar fornecedores",
-  "secondary_cta_target": "/fornecedores-chineses/",
+  "hero_title": "Importar da China para o Brasil com custo, prova e limite de risco",
+  "hero_subtitle": "Guias para decidir antes de pagar: custo landed, imposto, frete, fornecedor, amostra e quando a compra deve ser pausada.",
+  "primary_cta_label": "Ver conta de importação",
+  "primary_cta_target": "/importacao-para-o-brasil/003-como-calcular-custo-landed-de-um-produto-vindo-da-china-para-o-brasil.html",
+  "secondary_cta_label": "Validar fornecedor",
+  "secondary_cta_target": "/fornecedores-chineses/003-como-validar-fornecedor-chines-antes-de-pagar-o-primeiro-lote.html",
   "pain_points": [
-    "Escolher fornecedor sem medir custo landed no Brasil",
-    "Ignorar imposto, frete e desembara\u00e7o na margem final",
-    "Comparar cota\u00e7\u00f5es chinesas sem padr\u00e3o m\u00ednimo",
-    "Entrar em pedido grande antes de validar amostra e documenta\u00e7\u00e3o",
-    "Misturar compra online simples com importa\u00e7\u00e3o comercial",
-    "Planejar venda no Brasil sem teste de estoque e canal"
+    "Risco central: 进口中国、税费、货代、供应商、风险控制",
+    "Leitor atendido: comprador brasileiro que precisa importar sem esconder imposto, frete ou prova do fornecedor",
+    "Fronteira editorial: 不抢 Alibaba/1688 平台专题和 SKU 转售利润专题",
+    "Decisão sempre baseada em prova, custo e condição para pausar"
   ],
   "homepage_featured_categories": [
     "importacao-para-o-brasil",
@@ -56,26 +54,27 @@
   ],
   "homepage_faq": [
     {
-      "q": "Por que este \u00e9 o site principal da rede?",
-      "a": "Porque concentra os temas de maior peso para o Brasil: fornecedor, imposto, frete, documenta\u00e7\u00e3o e decis\u00e3o comercial depois que a compra deixa de ser apenas uma pesquisa online."
+      "q": "Quando importar da China vale a pena para o Brasil?",
+      "a": "Quando custo landed, prazo, imposto, frete e margem continuam aceitáveis no cenário conservador, não só na cotação inicial."
     },
     {
-      "q": "Quando comprar da China vira importa\u00e7\u00e3o de verdade?",
-      "a": "Quando o pedido exige c\u00e1lculo de custo landed, escolha de modal, documenta\u00e7\u00e3o m\u00ednima, valida\u00e7\u00e3o de fornecedor e plano de venda ou uso no Brasil."
+      "q": "O que revisar antes de pagar fornecedor chinês?",
+      "a": "Produto, quantidade, embalagem, invoice, prazo, forma de envio, dados da empresa e prova do lote."
     },
     {
-      "q": "O que precisa vir antes do pagamento ao fornecedor?",
-      "a": "Cota\u00e7\u00e3o padronizada, confirma\u00e7\u00e3o de especifica\u00e7\u00e3o, amostra ou prova do produto, c\u00e1lculo de frete e leitura b\u00e1sica dos impostos que entram no custo final."
+      "q": "Quando pausar uma importação?",
+      "a": "Quando a conta só fecha se imposto, frete, perda ou prazo ficarem fora da decisão."
     },
     {
-      "q": "Quanto tempo leva para uma importa\u00e7\u00e3o da China chegar ao Brasil?",
-      "a": "Depende do fornecedor, produ\u00e7\u00e3o, inspe\u00e7\u00e3o, frete, documenta\u00e7\u00e3o e desembara\u00e7o. Por isso o planejamento precisa medir prazo junto com custo e risco, n\u00e3o como promessa isolada."
+      "q": "Quanto tempo leva para uma importação da China chegar ao Brasil?",
+      "a": "Depende da rota, do tipo de carga e da conferência no Brasil. Use prazo conservador antes de prometer venda, reposição ou entrega ao cliente."
     }
   ],
   "author_profile": {
-    "name": "Equipe editorial China Com\u00e9rcio Blog",
-    "role": "Pesquisa editorial sobre importa\u00e7\u00e3o da China para o Brasil",
-    "bio": "Equipe respons\u00e1vel por organizar guias sobre fornecedor chin\u00eas, custo landed, imposto, frete e decis\u00e3o comercial para leitores brasileiros.",
-    "experience": "Os conte\u00fados s\u00e3o revisados com foco em pedido real, margem, documenta\u00e7\u00e3o e risco antes do pagamento ao fornecedor."
-  }
+    "name": "Equipe editorial China Comércio Blog",
+    "role": "Pesquisa editorial sobre importação da China para o Brasil",
+    "bio": "Equipe responsável por organizar guias sobre fornecedor chinês, custo landed, imposto, frete e decisão comercial para leitores brasileiros.",
+    "experience": "Os conteúdos são revisados com foco em pedido real, margem, documentação e risco antes do pagamento ao fornecedor."
+  },
+  "precision_homepage_type": "guia"
 }
