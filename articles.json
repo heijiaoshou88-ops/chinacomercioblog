@@ -1,5 +1,96 @@
 [
   {
+    "id": "20260516-importacao-para-o-brasil-010",
+    "title": "NCM errado na importação da China: quando a conta muda antes do pedido?",
+    "description": "NCM errado pode transformar FOB baixo em custo ruim. Veja quando parar, que prova pedir e como recalcular imposto antes do pedido.",
+    "category": "Importação para o Brasil",
+    "category_slug": "importacao-para-o-brasil",
+    "tags": [
+      "NCM",
+      "imposto",
+      "custo landed"
+    ],
+    "core_keyword": "NCM na importação da China",
+    "long_keywords": [
+      "NCM importação China Brasil",
+      "imposto de importação produto chinês",
+      "custo landed Brasil"
+    ],
+    "path": "importacao-para-o-brasil/010-ncm-errado-na-importacao-da-china-quando-a-conta-muda.html",
+    "url": "https://chinacomercioblog.com/importacao-para-o-brasil/010-ncm-errado-na-importacao-da-china-quando-a-conta-muda.html",
+    "date": "2026-05-16",
+    "updated_at": "2026-05-16T06:46:56Z",
+    "number": 10,
+    "slug": "010-ncm-errado-na-importacao-da-china-quando-a-conta-muda",
+    "word_count": 1244,
+    "image_count": 3,
+    "faq_count": 3,
+    "related_links": [
+      {
+        "title": "Custo landed da China: quando a conta ainda não fecha",
+        "url": "/importacao-para-o-brasil/003-como-calcular-custo-landed-de-um-produto-vindo-da-china-para-o-brasil.html"
+      },
+      {
+        "title": "Imposto de importação: custo real antes da invoice",
+        "url": "/importacao-para-o-brasil/001-importar-da-china-ainda-vale-a-pena-quando-imposto-e-prazo-assustam.html"
+      },
+      {
+        "title": "Pedido teste da China: o que validar antes de escalar",
+        "url": "/compras-da-china/004-pedido-teste-da-china-vale-a-pena-antes-de-importar-para-vender-no-brasil.html"
+      }
+    ],
+    "references": [
+      {
+        "title": "Receita Federal - Importação",
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/importacao"
+      },
+      {
+        "title": "Sebrae - Gestão financeira",
+        "url": "https://sebrae.com.br/sites/PortalSebrae/"
+      }
+    ],
+    "og_image": "https://chinacomercioblog.com/assets/og/importacao-para-o-brasil/010-ncm-errado-na-importacao-da-china-quando-a-conta-muda.webp",
+    "status": "published",
+    "blocks": [
+      {
+        "type": "image",
+        "path": "assets/importacao-para-o-brasil/010-ncm-errado-na-importacao-da-china-quando-a-conta-muda/01.webp",
+        "alt": "importador comparando produto, planilha fiscal e calculadora antes do pedido",
+        "image_role": "hero"
+      },
+      {
+        "type": "text",
+        "text": "Se você já recebeu um FOB bonito, mas ainda não sabe qual NCM vai entrar na declaração, a compra ainda não está pronta. O risco não aparece na conversa com o fornecedor. Ele aparece quando a conta fiscal muda depois.\nPara importador pequeno, o erro mais caro nem sempre é pagar caro pelo produto. Às vezes é calcular margem com um código e descobrir no desembaraço que o produto caiu em outra leitura, com imposto, exigência ou custo local diferente.\nA decisão vem antes do desconto\nContinue se o produto, o uso e a composição já estão claros o bastante para classificar.\nEspere se você ainda descreve o item só como 'acessório' ou 'eletrônico pequeno'.\nPare se a margem só fecha usando o NCM mais barato que alguém sugeriu no chat.\nPreço baixo sem classificação segura não é economia. É só uma conta incompleta.\nO produto que parece simples até o fiscal olhar\nImagine uma mini seladora térmica portátil. O fornecedor oferece FOB de US$ 2,10, MOQ de 500 peças e embalagem já pronta para varejo. Na foto, parece um item simples de cozinha. Mas bateria, resistência, material e função podem mudar a leitura fiscal. Se você calcula a compra como se fosse só plástico barato, a margem nasce falsa.\nA conta fiscal antes da conversa comercial\nProduto de referência: mini seladora térmica portátil.\nFOB: US$ 2,10 por unidade.\nMOQ: 500 unidades.\nFrete LCL simulado: US$ 210.\nICMS usado na simulação: 18%.\nNCM em análise: precisa ser confirmado pelo tipo real do produto.\nPreço de venda testado: R$ 39.\nFonte usada: Receita Federal, Sebrae e simulação própria.\nSe o custo final passar de R$ 24 por unidade, esse produto já exige canal muito eficiente para continuar fazendo sentido.\nO que realmente muda quando o NCM muda\nAlíquota efetiva.\nTratamento administrativo.\nDocumentos exigidos.\nChance de exigência no desembaraço.\nCusto do despachante quando a classificação precisa ser revista.\nO NCM não é detalhe de escritório. Ele decide se o lucro que você viu no catálogo ainda existe quando o produto chega ao Brasil.\nQuando a descrição do fornecedor não basta\nO fornecedor pode chamar dois produtos de 'mini sealer' mesmo que um use bateria recarregável e o outro só resistência simples. Para importar, você precisa de ficha técnica, composição, função, foto real do lote e, quando necessário, ajuda especializada para validar a classificação. A descrição comercial serve para vender. Nem sempre serve para classificar.\nOnde a compra quebra na prática\nO comprador copia o NCM de um anúncio brasileiro sem ver se o produto é igual.\nA foto do catálogo esconde bateria ou acessório incluído.\nO despachante recebe informação incompleta e calcula com base fraca.\nO produto chega com embalagem diferente da amostra e muda a análise.\nQuando isso acontece, o erro não nasce no porto. Nasce no primeiro dia em que ninguém fez a pergunta fiscal certa.\nDois produtos parecidos, duas contas diferentes\nUma luminária USB e uma luminária com bateria interna podem parecer a mesma categoria para quem olha a foto. Para a margem, não são a mesma coisa. Se o custo, o imposto ou a exigência muda, o produto barato de um lado pode virar o produto ruim do outro.\nChecklist que eu usaria antes de pagar\n[ ] foto real do produto ligado e desligado\n[ ] composição principal\n[ ] presença ou ausência de bateria\n[ ] ficha técnica\n[ ] embalagem final\n[ ] função principal em uma frase\n[ ] NCM usado na simulação\n[ ] margem recalculada se a tributação subir\nSe três desses pontos ainda estiverem vagos, o pedido não está pronto para sair.\nO erro fiscal que só apareceu tarde\nProduto: mini aspirador de mesa.\nFOB: US$ 3,40.\nMOQ: 400.\nProblema: a compra foi calculada como acessório simples, mas a função elétrica mudou a leitura do item.\nResultado: custo final maior, margem comprimida e lote que só vendeu com desconto.\nErro: o comprador validou preço, mas não validou classificação.\nO prejuízo veio antes do embarque. Só ficou visível depois.\nQuando isso não vale a pena\nNão vale quando a margem depende de usar o NCM mais favorável sem prova.\nNão vale quando a descrição ainda muda de uma conversa para outra.\nNão vale quando o produto precisa de tanto ajuste fiscal que você perde a previsibilidade do primeiro lote.\nMesmo que o fornecedor responda rápido, uma classificação fraca continua sendo uma compra fraca.\nA próxima ação correta\nAntes de pedir desconto, monte uma ficha simples do produto com foto, uso, material, energia, acessórios e embalagem. Leve essa ficha para a classificação. Só depois compare FOB, frete, imposto e margem. O desconto entra depois da verdade fiscal, não antes.\nO custo landed muda antes mesmo de o produto chegar\nQuando o NCM muda, não muda apenas uma linha do imposto. Muda a leitura inteira do custo landed: base tributável, ICMS, taxa local, capital necessário e até o preço mínimo que você precisa praticar para não transformar venda em prejuízo. É por isso que classificar depois da compra é tarde; a decisão comercial já foi tomada com uma base que talvez não exista.\nComo eu testaria a classificação sem fingir certeza\nEu montaria uma folha de uma página com foto real, uso principal, fonte de energia, material dominante, acessórios e embalagem. Depois rodaria duas contas: uma com a hipótese mais provável e outra com um cenário mais pesado. Se o produto só sobrevive na primeira, ele ainda não está pronto para um lote maior.\nO papel do fornecedor nessa etapa\nFornecedor bom não precisa conhecer a legislação brasileira. Mas precisa entregar informação consistente. Se hoje ele diz ABS, amanhã escreve PP, e no terceiro dia manda vídeo de uma versão com bateria diferente, ele não está ajudando você a classificar; está mostrando que nem ele estabilizou o produto que quer vender.\nA pergunta que evita semanas de retrabalho\nPergunte antes de fechar: esta é exatamente a mesma versão, com a mesma função, composição, bateria e embalagem que será produzida no lote? Parece uma pergunta básica, mas ela evita que o comprador classifique uma amostra e receba outra realidade depois.\nComo transformar dúvida fiscal em decisão comercial\nA pergunta final não é 'qual NCM parece caber?'. É 'se a classificação subir um degrau de custo, eu ainda compraria esse produto?'. Se a resposta for não, há apenas duas saídas maduras: reduzir o lote para aprender ou abandonar a compra enquanto o erro ainda é barato.\nO que eu perguntaria ao despachante antes de aceitar a conta\nEu não enviaria apenas o nome comercial do produto. Mandaria foto, ficha, uso principal, material, fonte de energia e perguntaria quais dados ainda faltam para reduzir incerteza. Se a resposta vier como um número rápido sem pedir quase nada, eu trataria aquilo como estimativa inicial, não como base final de compra.\nDois cenários fiscais valem mais que uma certeza frágil\nAntes de pagar, compare o cenário provável e um cenário mais pesado. O primeiro mostra se a compra parece boa. O segundo mostra se ela continua suportável quando algo muda. Produto que só funciona no cenário otimista não é oportunidade; é dependência de um acerto que você ainda não provou.\nPosso usar o NCM de um concorrente brasileiro? Só como pista inicial. Se composição, função ou acessórios mudarem, a comparação já ficou fraca.\nO fornecedor precisa saber meu NCM? Não necessariamente. Ele precisa fornecer dados técnicos corretos para que você classifique bem no Brasil.\nQuando devo parar a compra? Quando a margem só fecha com um NCM conveniente, mas ainda sem prova suficiente para sustentá-lo."
+      },
+      {
+        "type": "image",
+        "path": "assets/importacao-para-o-brasil/010-ncm-errado-na-importacao-da-china-quando-a-conta-muda/02.webp",
+        "alt": "produtos pequenos sendo comparados com papéis fiscais e calculadora",
+        "image_role": "inline"
+      },
+      {
+        "type": "image",
+        "path": "assets/importacao-para-o-brasil/010-ncm-errado-na-importacao-da-china-quando-a-conta-muda/03.webp",
+        "alt": "caixa aberta e documentos de importação sobre mesa de conferência",
+        "image_role": "inline"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Posso usar o NCM de um concorrente brasileiro?",
+        "a": "Só como pista inicial. Se composição, função ou acessórios mudarem, a comparação já ficou fraca."
+      },
+      {
+        "q": "O fornecedor precisa saber meu NCM?",
+        "a": "Não necessariamente. Ele precisa fornecer dados técnicos corretos para que você classifique bem no Brasil."
+      },
+      {
+        "q": "Quando devo parar a compra?",
+        "a": "Quando a margem só fecha com um NCM conveniente, mas ainda sem prova suficiente para sustentá-lo."
+      }
+    ]
+  },
+  {
     "id": "20260515-importacao-para-o-brasil-009",
     "title": "Frete da China para o Brasil: aéreo, courier ou LCL?",
     "description": "Compare aéreo, courier e LCL ao importar da China para o Brasil, com custo real, prazo, imposto, MOQ e regra para não errar a rota.",
